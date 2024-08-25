@@ -11,7 +11,7 @@ const content = `# About Me
 Hey there! I'm Dennis Ngugi, a 23-year-old Sotfware Engineer and Dev Ops student. When  I am not diving into code creating and deploying systems you will find me immersed in the world of cars. My passion for technology and cars seemlesly blend in and rev up my love for the automotive industry.
 
 Cars are more than just machines, they are a fusion of engineering, art and raw emotions and whether it is the thrill of the roar of an engine or a perfectly executed deployment, I am always on the lookout for what's next.
-![Samantha](https://imagedelivery.net/lLmNeOP7HXG0OqaG97wimw/clvlugru90000o4g8ahxp069s/6b080e65-2329-4a36-ad5c-0a6af8d9aeb1.png/public)
+
 
 This blog is where my two worlds collide and I will be offering a different perspective in the latest automation technology, enginnering marvels and the joy of driving. You will also find a mix of the latest technology trends and my personal reflections and favorite machines. 
 
