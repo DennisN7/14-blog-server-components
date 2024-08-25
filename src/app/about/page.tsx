@@ -5,7 +5,7 @@ import { signOgImageUrl } from "@/lib/og-image";
 import Markdown from "react-markdown";
 
 // Import your local image
-import profileImage from "@/public/profile.jpg";
+import profileImage from "@/public/images/profile.jpg";
 
 const content = `# About Me
 
