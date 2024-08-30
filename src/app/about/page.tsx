@@ -17,7 +17,7 @@ This blog is where my two worlds collide and I will be offering a different pers
 
 Whether I am exploring the parrallels of the world of cloud architecture or sharing my thoughts about a certain car, my goal is to deliver great insight and perspective for the tech bros and gear heads(and also get myselt a Volkwagen GTI :)
 
-So join me on this adventure, and let's drive and deploy.
+So join me on this adventure, and let's shift gears and deploy.
 
 Love,
 
