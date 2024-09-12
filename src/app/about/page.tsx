@@ -6,7 +6,6 @@ import Markdown from "react-markdown";
 
 const content = # About Me
 
-![Samantha](https://imagedelivery.net/lLmNeOP7HXG0OqaG97wimw/clvlugru90000o4g8ahxp069s/db7abbe3-aa5c-433e-a16d-cbf137d1c9e5.png/public)
 
 Hey there! I'm Dennis Ngugi, a 23-year-old Sotfware Engineer and Dev Ops student. When  I am not diving into code creating and deploying systems you will find me immersed in the world of cars. My passion for technology and cars seemlesly blend in and rev up my love for the automotive industry.
 
