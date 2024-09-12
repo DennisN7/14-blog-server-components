@@ -6,7 +6,7 @@ import Markdown from "react-markdown";
 
 const content = `# About Me
 
-Heyy there! I'm Dennis Ngugi, a 23-year-old Software Engineer and Dev Ops student. When I am not diving into code creating and deploying systems you will find me immersed in the world of cars. My passion for technology and cars seamlessly blend in and rev up my love for the automotive industry.
+Hey there! I'm Dennis Ngugi, a 23-year-old Software Engineer and Dev Ops student. When I am not diving into code creating and deploying systems you will find me immersed in the world of cars. My passion for technology and cars seamlessly blend in and rev up my love for the automotive industry.
 
 Cars are more than just machines, they are a fusion of engineering, art and raw emotions and whether it is the thrill of the roar of an engine or a perfectly executed deployment, I am always on the lookout for what's next.
 
@@ -43,14 +43,17 @@ const Page = async () => {
     <div className="container mx-auto px-5">
       <Header />
       <div className="prose lg:prose-lg dark:prose-invert m-auto mt-20 mb-10 blog-content">
-        <Markdown>{content}</Markdown>
-        <div className="mt-10">
+        {/* Image at the top */}
+        <div className="flex justify-center">
           <img
             src="/images/profile-picture.jpg"
             alt="Dennis Ngugi"
-            className="rounded-full w-48 h-48 mx-auto"
+            className="w-full max-w-[720px] h-auto"
           />
         </div>
+        
+        {/* Markdown content below the image */}
+        <Markdown>{content}</Markdown>
       </div>
       <Footer />
     </div>
@@ -58,5 +61,3 @@ const Page = async () => {
 };
 
 export default Page;
-
-
